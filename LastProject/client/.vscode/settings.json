@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Nut\\.platformio\\penv\\Scripts;C:\\Users\\Nut\\.platformio\\penv;C:\\Python37\\Scripts\\;C:\\Python37\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\dotnet\\;C:\\Users\\Nut\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Nut\\AppData\\Roaming\\npm;C:\\Users\\Nut\\AppData\\Local\\Yarn\\bin;C:\\ProgramData\\chocolatey\\lib\\mingw\\tools\\install\\mingw64\\bin;;C:\\Python37\\Scripts\\;C:\\Python37\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\dotnet\\;C:\\Users\\Nut\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Nut\\AppData\\Roaming\\npm;C:\\Users\\Nut\\AppData\\Local\\Yarn\\bin;C:\\ProgramData\\chocolatey\\lib\\mingw\\tools\\install\\mingw64\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
